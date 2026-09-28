@@ -1,5 +1,5 @@
 (() => {
-  const fechaEvento = new Date("2026-10-17T16:00:00-05:00").getTime();
+  const fechaEvento = new Date("2026-10-17T15:30:00-05:00").getTime();
 
   function actualizarContador() {
     const restante = Math.max(
